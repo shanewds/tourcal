@@ -6,8 +6,8 @@ spring:
       force: true
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: admin
-    password: syiaas_1234
+    username: root
+    password: 123456
     url: jdbc:mysql://127.0.0.1/EPDB?characterEncoding=utf-8&useSSL=false
     type: com.alibaba.druid.pool.DruidDataSource
     #初始化时建立物理连接的个数。初始化发生在显示调用init方法，或者第一次getConnection时
