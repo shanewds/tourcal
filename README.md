@@ -8,13 +8,13 @@
 使用Mybatis-Generator自动生成Dao、Model、Mapping 
 
 开发环境的搭建 
-  https://github.com/shanewds/Image/blob/master/image/tourcal-1.png
+  ![Image text](https://github.com/shanewds/Image/blob/master/image/tourcal-1.png)
   
-  https://github.com/shanewds/Image/blob/master/image/tourcal-2.png
+  ![Image text](https://github.com/shanewds/Image/blob/master/image/tourcal-2.png)
   
-  https://github.com/shanewds/Image/blob/master/image/tourcal-3.png
+  ![Image text](https://github.com/shanewds/Image/blob/master/image/tourcal-3.png)
   
-  https://github.com/shanewds/Image/blob/master/image/tourcal-4.png
+  ![Image text](https://github.com/shanewds/Image/blob/master/image/tourcal-4.png)
 
 
 
