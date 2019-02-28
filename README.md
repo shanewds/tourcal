@@ -22,9 +22,8 @@
 
 分页代码
 
-
- @Override
  public PageInfo findAllExhibitioninfo(int pageNum, int pageSize) {
+ 
         //* pageNum 开始页数  * pageSize 每页显示的数据条数
         PageHelper.startPage(pageNum,pageSize);
         List<Exhibitioninfo> exhibitioninfoList = exhibitioninfoMapper.getAllExhibitioninfo();
