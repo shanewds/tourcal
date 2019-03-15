@@ -35,7 +35,8 @@
 
 启动程序
 
-https://github.com/shanewds/Image/blob/master/image/tourcal-5.png
+ ![Image text]https://github.com/shanewds/Image/blob/master/image/tourcal-5.png)
+
 
 
 
